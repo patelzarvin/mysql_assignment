@@ -1,0 +1,4 @@
+contactid,companyid,firstname,lastname,street,city,state,zip,ismain,email,phone
+1,1,het,patel,"P.D. pandya",Ahmedabad,gujarat,15232,1,het.55@gmail.com,408-555-1212
+2,2,meet,prajapati,"Rajmahel street",patan,gujarat,12351,1,fg.54@gmail.com,563-645-5466
+3,3,preet,shah,"varacha street",surat,gujarat,12541,1,preet.43@gmail.com,455-515-5496

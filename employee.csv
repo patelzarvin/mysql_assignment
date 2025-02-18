@@ -1,0 +1,4 @@
+Employeeid,FirstName,LastName,Salary,HireDate,JobTitle,Email,Phone
+1,lesley,Bland,21000.00,2025-02-24,CA,les12@gmail.com,215-555-8800
+2,Jack,Lee,20000.00,2025-02-01,Developer,jc56@gmail.com,548-545-9842
+3,Dianne,Connor,19000.00,2025-02-03,Manager,daid56@gmail.com,526-242-9125
